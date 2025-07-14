@@ -47,10 +47,6 @@ Welcome to my interactive developer portfolio built with **ASP.NET Web Forms**, 
 
 ---
 
-## 🖼️ Preview
-
-![Portfolio Preview](images/name.jpg) <!-- optional preview -->
-
 > 📌 You can view all tasks and profile by running `Home.aspx` in Visual Studio.
 
 ---
